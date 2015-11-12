@@ -1,0 +1,3 @@
+puushApp.controller('homeCtrl', [function(){
+
+}]);
